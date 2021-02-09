@@ -1,5 +1,6 @@
 {
   "name": "rr-bitsight-gh",
+  "homepage": "https://robrichardsdpt.github.io/graphql-gh",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
