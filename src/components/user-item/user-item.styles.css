@@ -1,0 +1,69 @@
+a {
+  color: steelblue;
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: none;
+  text-shadow: 1px 1px silver;
+}
+
+.user-row {
+  padding: 15px;
+}
+
+.user-login-container {
+  padding: 10px 10px 10px 0px;
+}
+
+.user-login-text {
+  color: steelblue;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+  text-shadow: 2px 1px lightgray;
+}
+
+.user-details {
+  font-weight: bold;
+  text-align: right;
+}
+
+.user-date-joined-text {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.user-avatar-container {
+  display: flex;
+  justify-content: center;
+}
+
+.avatar {
+  border-radius: 100px;
+  box-shadow: 5px 5px lightsteelblue;
+  height: 125px;
+  margin: 15px;
+  width: auto;
+}
+
+.user-bio-container {
+  align-items: center;
+  display: flex;
+  font-size: 1.2em;
+}
+
+.user-followers-container {
+  padding-top: 25px;
+  text-align: center;
+}
+
+.user-followers-text-label {
+  font-style: italic;
+  font-weight: bolder;
+}
+
+.user-followers-text {
+  color: darkred;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: bolder;
+}
